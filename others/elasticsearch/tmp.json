@@ -1,0 +1,2819 @@
+[
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:00:42",
+        "fact_info": "A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through.",
+        "raw_response": {
+            "data": [
+                "A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:00:42",
+        "fact_info": "Angela Davis is an American political activist, philosopher, academic, scholar, and author.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "vLS7LIUBpqkA2GH5bYdn",
+                    "id": 1671492621785,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": null,
+                    "length": 91,
+                    "people": [
+                        "Angela Davis"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Angela_Davis",
+                    "status": "approved",
+                    "tags": [
+                        "Politics",
+                        "Civil RIghts"
+                    ],
+                    "text": "Angela Davis is an American political activist, philosopher, academic, scholar, and author."
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:00:42",
+        "fact_info": "The word Pennsylvania is misspelled on the Liberty Bell.",
+        "raw_response": {
+            "id": "a1b1a66352027b974149846c2c2ea2e0",
+            "text": "The word Pennsylvania is misspelled on the Liberty Bell.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/a1b1a66352027b974149846c2c2ea2e0"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:00:48",
+        "fact_info": "The average American butt is 14.9 inches long.",
+        "raw_response": {
+            "id": "de9ec5cb8ec630aead24c3c972365fba",
+            "text": "The average American butt is 14.9 inches long.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/de9ec5cb8ec630aead24c3c972365fba"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:00:48",
+        "fact_info": "Cats have 30 vertebrae--5 more than humans have.",
+        "raw_response": {
+            "data": [
+                "Cats have 30 vertebrae--5 more than humans have."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:00:48",
+        "fact_info": "Bob Marley began his professional musical career at 18, after forming the Teenagers with Peter Tosh and Bunny Wailer, which after several name changes would become the Wailers.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "xLS7LIUBpqkA2GH5bYdn",
+                    "id": 1671492621870,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": null,
+                    "length": 176,
+                    "people": [
+                        "Bob Marley,Peter Tosh,Bunny Wailer"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Bob_Marley",
+                    "status": "approved",
+                    "tags": [
+                        "Music",
+                        "Global"
+                    ],
+                    "text": "Bob Marley began his professional musical career at 18, after forming the Teenagers with Peter Tosh and Bunny Wailer, which after several name changes would become the Wailers."
+                }
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:00:58",
+        "fact_info": "In 1906, O.W. Gurley, a wealthy African-American from Arkansas, moved to Tulsa and purchased over 40 acres of land that he made sure was only sold to other African-Americans. This community became known as Black Wall Street",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "Y7S4LIUBpqkA2GH5PoeG",
+                    "id": 1671492388654,
+                    "createdDateTime": "2022-12-19T23:26:28.431Z",
+                    "date": null,
+                    "length": 223,
+                    "people": [
+                        "OW Gurley,John Stradford"
+                    ],
+                    "source": "https://daily.jstor.org/the-devastation-of-black-wall-street/",
+                    "status": "approved",
+                    "tags": [
+                        "Economics"
+                    ],
+                    "text": "In 1906, O.W. Gurley, a wealthy African-American from Arkansas, moved to Tulsa and purchased over 40 acres of land that he made sure was only sold to other African-Americans. This community became known as Black Wall Street"
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:00:58",
+        "fact_info": "The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.",
+        "raw_response": {
+            "id": "b8187d1d5676c6bab434de683bf2f170",
+            "text": "The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/b8187d1d5676c6bab434de683bf2f170"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:00:58",
+        "fact_info": "Cats sleep 70% of their lives.",
+        "raw_response": {
+            "data": [
+                "Cats sleep 70% of their lives."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:01:09",
+        "fact_info": "In 1982, Alice Walker, an author and activist from Georgia, became the first African American woman to win the Pulitzer Prize for Fiction for her novel The Color Purple.\"",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "m_JG2ocB5ZAt_JXrY7_U",
+                    "createdDateTime": "2023-04-08T04:12:07.000Z",
+                    "date": "1982-05-07",
+                    "length": 171,
+                    "people": [
+                        "Alice Walker"
+                    ],
+                    "tags": [
+                        "Atlanta",
+                        "Firsts",
+                        "Literature"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Alice_Walker",
+                    "status": "approved",
+                    "text": "In 1982, Alice Walker, an author and activist from Georgia, became the first African American woman to win the Pulitzer Prize for Fiction for her novel The Color Purple.\""
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:01:09",
+        "fact_info": "When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.",
+        "raw_response": {
+            "id": "734b8c7087c7fe8e9d2b85cde45100ff",
+            "text": "When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/734b8c7087c7fe8e9d2b85cde45100ff"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:01:09",
+        "fact_info": "The color of the points in Siamese cats is heat related. Cool areas are darker.",
+        "raw_response": {
+            "data": [
+                "The color of the points in Siamese cats is heat related. Cool areas are darker."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:01:19",
+        "fact_info": "If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.",
+        "raw_response": {
+            "id": "d663e30f84268c470e47e4c83b9b7c9a",
+            "text": "If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/d663e30f84268c470e47e4c83b9b7c9a"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:01:19",
+        "fact_info": "In 2001, Halle Berry, became the first African American woman to win the Academy Award for Best Actress for her role in Monster's Ball.\"",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "nvJG2ocB5ZAt_JXrY7_U",
+                    "createdDateTime": "2023-04-08T04:23:38.000Z",
+                    "date": "2001-03-25",
+                    "length": 137,
+                    "people": [
+                        "Halle Berry"
+                    ],
+                    "tags": [
+                        "Film",
+                        "Acting",
+                        "Firsts"
+                    ],
+                    "source": "https://www.imdb.com/name/nm0000932/awards",
+                    "status": "approved",
+                    "text": "In 2001, Halle Berry, became the first African American woman to win the Academy Award for Best Actress for her role in Monster's Ball.\""
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:01:19",
+        "fact_info": "You check your cats pulse on the inside of the back thigh, where the leg joins to the body. Normal for cats: 110-170 beats per minute.",
+        "raw_response": {
+            "data": [
+                "You check your cats pulse on the inside of the back thigh, where the leg joins to the body. Normal for cats: 110-170 beats per minute."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:01:29",
+        "fact_info": "The Pentagon, in Arlington, Virginia, has twice as many bathrooms as is necessary, because when it was built in the 1940s, the state of Virginia still had segregation laws requiring separate toilet facilities for blacks and whites.",
+        "raw_response": {
+            "id": "82c3dc84e2f2025a9138752db5004ece",
+            "text": "The Pentagon, in Arlington, Virginia, has twice as many bathrooms as is necessary, because when it was built in the 1940s, the state of Virginia still had segregation laws requiring separate toilet facilities for blacks and whites.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/82c3dc84e2f2025a9138752db5004ece"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:01:29",
+        "fact_info": "Barack Obama was the first African-American to serve as President of the United States",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "TbS4LIUBpqkA2GH5PoeF",
+                    "id": 1671492388516,
+                    "createdDateTime": "2022-12-19T23:26:28.430Z",
+                    "date": null,
+                    "length": 86,
+                    "people": [
+                        "Barack Obama"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Barack_Obama",
+                    "status": "approved",
+                    "tags": [
+                        "US Government",
+                        "Firsts",
+                        "Government"
+                    ],
+                    "text": "Barack Obama was the first African-American to serve as President of the United States"
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:01:29",
+        "fact_info": "A cat has ran for mayor of Mexico City in 2013.",
+        "raw_response": {
+            "data": [
+                "A cat has ran for mayor of Mexico City in 2013."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:01:39",
+        "fact_info": "In 2006 Bessie Coleman was inducted into the National Aviation Hall of Fame.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "orS6LIUBpqkA2GH5u4dz",
+                    "id": 1671492621770,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": "2022-12-19T23:30:21.000Z",
+                    "length": 76,
+                    "people": [
+                        "Bessie Coleman"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Bessie_Coleman#Honors",
+                    "status": "approved",
+                    "tags": [],
+                    "text": "In 2006 Bessie Coleman was inducted into the National Aviation Hall of Fame."
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:01:39",
+        "fact_info": "A cat's brain is more similar to a man's brain than that of a dog.",
+        "raw_response": {
+            "data": [
+                "A cat's brain is more similar to a man's brain than that of a dog."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:01:39",
+        "fact_info": "A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.",
+        "raw_response": {
+            "id": "6efa598440e7dd50ed626237abb100c2",
+            "text": "A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/6efa598440e7dd50ed626237abb100c2"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:01:48",
+        "fact_info": "The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  ",
+        "raw_response": {
+            "id": "31e3847c195e85fdb32adef429fd30d8",
+            "text": "The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  ",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/31e3847c195e85fdb32adef429fd30d8"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:01:48",
+        "fact_info": "Cats have been domesticated for half as long as dogs have been.",
+        "raw_response": {
+            "data": [
+                "Cats have been domesticated for half as long as dogs have been."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:01:48",
+        "fact_info": "Ray Charles was an American singer, songwriter, pianist and alto saxophonist. He is one of the most iconic and influential singers in history.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "ovJG2ocB5ZAt_JXrY7_U",
+                    "createdDateTime": "2023-04-08T18:22:12.000Z",
+                    "length": 142,
+                    "people": [
+                        "Ray Charles"
+                    ],
+                    "tags": [
+                        "Music",
+                        "Georgia"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Ray_Charles",
+                    "status": "approved",
+                    "text": "Ray Charles was an American singer, songwriter, pianist and alto saxophonist. He is one of the most iconic and influential singers in history."
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:01:57",
+        "fact_info": "In ancient Egypt, when a family cat died, all family members would shave their eyebrows as a sign of mourning.",
+        "raw_response": {
+            "data": [
+                "In ancient Egypt, when a family cat died, all family members would shave their eyebrows as a sign of mourning."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:01:57",
+        "fact_info": "Shakespeare spelled his OWN name several different ways.",
+        "raw_response": {
+            "id": "4fdd6232c09335e6d0f556ac1d76dd70",
+            "text": "Shakespeare spelled his OWN name several different ways.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/4fdd6232c09335e6d0f556ac1d76dd70"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:01:58",
+        "fact_info": "In 2015, President Barack Obama posthumously awarded the Presidential Medal of Freedom to Shirley Chisholm.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "p7S6LIUBpqkA2GH5u4dz",
+                    "id": 1671492621801,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": "2022-12-19T23:30:21.000Z",
+                    "length": 107,
+                    "people": [
+                        "Shirley Chisholm,Barack Obama"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Shirley_Chisholm",
+                    "status": "approved",
+                    "tags": [
+                        "US Government"
+                    ],
+                    "text": "In 2015, President Barack Obama posthumously awarded the Presidential Medal of Freedom to Shirley Chisholm."
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:02:07",
+        "fact_info": "Cats that live together sometimes rub each others heads to show that they have no intention of fighting. Young cats do this more often, especially when they are excited.",
+        "raw_response": {
+            "data": [
+                "Cats that live together sometimes rub each others heads to show that they have no intention of fighting. Young cats do this more often, especially when they are excited."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:02:08",
+        "fact_info": "Bessie Coleman was the first African-American woman and first Native American to hold a pilot license.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "brS4LIUBpqkA2GH5PoeG",
+                    "id": 1671492388533,
+                    "createdDateTime": "2022-12-19T23:26:28.431Z",
+                    "date": null,
+                    "length": 102,
+                    "people": [
+                        "Bessie Coleman"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Bessie_Coleman",
+                    "status": "approved",
+                    "tags": [
+                        "Firsts"
+                    ],
+                    "text": "Bessie Coleman was the first African-American woman and first Native American to hold a pilot license."
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:02:07",
+        "fact_info": "The symbol on the \"pound\" key (#) is called an octothorpe..  ",
+        "raw_response": {
+            "id": "cf5c120b33a1c96d981bd8b21339ffa4",
+            "text": "The symbol on the \"pound\" key (#) is called an octothorpe..  ",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/cf5c120b33a1c96d981bd8b21339ffa4"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:02:18",
+        "fact_info": "Barack Obama was the first African-American president of the Harvard Law Review",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "TrS4LIUBpqkA2GH5PoeF",
+                    "id": 1671492388509,
+                    "createdDateTime": "2022-12-19T23:26:28.430Z",
+                    "date": null,
+                    "length": 79,
+                    "people": [
+                        "Barack Obama"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Barack_Obama",
+                    "status": "approved",
+                    "tags": [
+                        "Firsts",
+                        "Legal"
+                    ],
+                    "text": "Barack Obama was the first African-American president of the Harvard Law Review"
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:02:18",
+        "fact_info": "A cats field of vision is about 185 degrees.",
+        "raw_response": {
+            "data": [
+                "A cats field of vision is about 185 degrees."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:02:18",
+        "fact_info": "The king of hearts is the only king without a mustache.",
+        "raw_response": {
+            "id": "a07e632516c51f79b20bfb78e67c5d1a",
+            "text": "The king of hearts is the only king without a mustache.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/a07e632516c51f79b20bfb78e67c5d1a"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:02:27",
+        "fact_info": "The way you treat kittens in the early stages of it's life will render it's personality traits later in life.",
+        "raw_response": {
+            "data": [
+                "The way you treat kittens in the early stages of it's life will render it's personality traits later in life."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:02:28",
+        "fact_info": "Bob Marley never received a Grammy nomination but was recognized with the Grammy Lifetime Achievement Award",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "wbS7LIUBpqkA2GH5bYdn",
+                    "id": 1671492621801,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": "2022-12-19T23:30:21.000Z",
+                    "length": 107,
+                    "people": [
+                        "Bob Marley"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Bob_Marley",
+                    "status": "approved",
+                    "tags": [
+                        "Music"
+                    ],
+                    "text": "Bob Marley never received a Grammy nomination but was recognized with the Grammy Lifetime Achievement Award"
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:02:27",
+        "fact_info": "Only one person in two billion will live to be 116 or older.",
+        "raw_response": {
+            "id": "32807f69af32189b6d509d0bc9d1c199",
+            "text": "Only one person in two billion will live to be 116 or older.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/32807f69af32189b6d509d0bc9d1c199"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:02:38",
+        "fact_info": "1 in 8 Americans has worked at a McDonalds restaurant.",
+        "raw_response": {
+            "id": "72be8a70dba147b1f1bf6d8840d43f88",
+            "text": "1 in 8 Americans has worked at a McDonalds restaurant.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/72be8a70dba147b1f1bf6d8840d43f88"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:02:38",
+        "fact_info": "The average cat food meal is the equivalent to about five mice.",
+        "raw_response": {
+            "data": [
+                "The average cat food meal is the equivalent to about five mice."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:02:48",
+        "fact_info": "In 1920 Rube Foster organized the Negro National League. The League maintained a high level of professional skill and became a centerpiece for economic development in many black communities.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "rrS7LIUBpqkA2GH5bYdn",
+                    "id": 1671492621883,
+                    "createdDateTime": "2022-12-19T23:30:21.693Z",
+                    "date": null,
+                    "length": 190,
+                    "people": [
+                        "Rube Foster"
+                    ],
+                    "source": "https://www.nlbm.com/negro-leagues-history/",
+                    "status": "approved",
+                    "tags": [
+                        "Baseball",
+                        "Sports",
+                        "Firsts"
+                    ],
+                    "text": "In 1920 Rube Foster organized the Negro National League. The League maintained a high level of professional skill and became a centerpiece for economic development in many black communities."
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:02:48",
+        "fact_info": "Honey is the only food which does not spoil.",
+        "raw_response": {
+            "id": "aa98a10121c712533238ee35ed4455a4",
+            "text": "Honey is the only food which does not spoil.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/aa98a10121c712533238ee35ed4455a4"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:02:48",
+        "fact_info": "Tabby cats are thought to get their name from Attab, a district in Baghdad, now the capital of Iraq.",
+        "raw_response": {
+            "data": [
+                "Tabby cats are thought to get their name from Attab, a district in Baghdad, now the capital of Iraq."
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:02:58",
+        "fact_info": "Besides smelling with their nose, cats can smell with an additional organ called the Jacobson's organ, located in the upper surface of the mouth.",
+        "raw_response": {
+            "data": [
+                "Besides smelling with their nose, cats can smell with an additional organ called the Jacobson's organ, located in the upper surface of the mouth."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:02:58",
+        "fact_info": "Hong Kong holds the most Rolls Royce’s per capita.",
+        "raw_response": {
+            "id": "3547e1acb0818699e5a406f1dd402879",
+            "text": "Hong Kong holds the most Rolls Royce’s per capita.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/3547e1acb0818699e5a406f1dd402879"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:03:07",
+        "fact_info": "Cats can not taste sweets.",
+        "raw_response": {
+            "data": [
+                "Cats can not taste sweets."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:03:07",
+        "fact_info": "Claudette Colvin is a pioneer of the Civil Rights Movement in the US",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "z7S7LIUBpqkA2GH5bYdn",
+                    "id": 1671492621762,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": null,
+                    "length": 68,
+                    "people": [
+                        "Claudette Colvin"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Claudette_Colvin",
+                    "status": "approved",
+                    "tags": [
+                        "Civil RIghts"
+                    ],
+                    "text": "Claudette Colvin is a pioneer of the Civil Rights Movement in the US"
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:03:07",
+        "fact_info": "Starfish haven`t got brains.",
+        "raw_response": {
+            "id": "30c7e9e575a8d0b07a454898c7a3d809",
+            "text": "Starfish haven`t got brains.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/30c7e9e575a8d0b07a454898c7a3d809"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:03:17",
+        "fact_info": "James Bond`s car had three different license plates in Goldfinger",
+        "raw_response": {
+            "id": "4dba7ea68b06030dfd95fc40e3b73fa1",
+            "text": "James Bond`s car had three different license plates in Goldfinger",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/4dba7ea68b06030dfd95fc40e3b73fa1"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:03:17",
+        "fact_info": "Siamese kittens are born white because of the heat inside the mother's uterus before birth. This heat keeps the kittens' hair from darkening on the points.",
+        "raw_response": {
+            "data": [
+                "Siamese kittens are born white because of the heat inside the mother's uterus before birth. This heat keeps the kittens' hair from darkening on the points."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:03:27",
+        "fact_info": "All of the clocks in the movie \"Pulp Fiction\" are stuck on 4:20, a national pot-smokers hour.",
+        "raw_response": {
+            "id": "e910d3f3992091f97c145ea0bf8c4ca9",
+            "text": "All of the clocks in the movie \"Pulp Fiction\" are stuck on 4:20, a national pot-smokers hour.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/e910d3f3992091f97c145ea0bf8c4ca9"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:03:37",
+        "fact_info": "The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.",
+        "raw_response": {
+            "id": "81061a01d37c6762c576e3ab68e8d055",
+            "text": "The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/81061a01d37c6762c576e3ab68e8d055"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:03:37",
+        "fact_info": "Cats, especially older cats, do get cancer. Many times this disease can be treated successfully.",
+        "raw_response": {
+            "data": [
+                "Cats, especially older cats, do get cancer. Many times this disease can be treated successfully."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:03:48",
+        "fact_info": "Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.",
+        "raw_response": {
+            "id": "a79df1c3d4ee87fa1c6ffb798cb6c3d1",
+            "text": "Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/a79df1c3d4ee87fa1c6ffb798cb6c3d1"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:03:48",
+        "fact_info": "Shirley Chisholm was an American politician who, in 1968, became the first black woman to be elected to the United States Congress",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "c7S4LIUBpqkA2GH5PoeG",
+                    "id": 1671492388561,
+                    "createdDateTime": "2022-12-19T23:26:28.431Z",
+                    "date": null,
+                    "length": 130,
+                    "people": [
+                        "Shirley Chisholm"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Shirley_Chisholm",
+                    "status": "approved",
+                    "tags": [
+                        "US Government",
+                        "Firsts"
+                    ],
+                    "text": "Shirley Chisholm was an American politician who, in 1968, became the first black woman to be elected to the United States Congress"
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:03:58",
+        "fact_info": "The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.",
+        "raw_response": {
+            "id": "2889d8e54be016bfa5961c7cc0dad6c0",
+            "text": "The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/2889d8e54be016bfa5961c7cc0dad6c0"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:03:58",
+        "fact_info": "The chlorine in fresh tap water irritates sensitive parts of the cat's nose. Let tap water sit for 24 hours before giving it to a cat.",
+        "raw_response": {
+            "data": [
+                "The chlorine in fresh tap water irritates sensitive parts of the cat's nose. Let tap water sit for 24 hours before giving it to a cat."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:03:59",
+        "fact_info": "Bob Marley was born in Nine Mile, Saint Ann Parish, Colony of Jamaica",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "kLS6LIUBpqkA2GH5u4dz",
+                    "id": 1671492621763,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": "2022-12-19T23:30:21.000Z",
+                    "length": 69,
+                    "people": [
+                        "Bob Marley"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Bob_Marley",
+                    "status": "approved",
+                    "tags": [
+                        "Birthday"
+                    ],
+                    "text": "Bob Marley was born in Nine Mile, Saint Ann Parish, Colony of Jamaica"
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:04:08",
+        "fact_info": "In the Middle Ages, during the Festival of Saint John, cats were burned alive in town squares.",
+        "raw_response": {
+            "data": [
+                "In the Middle Ages, during the Festival of Saint John, cats were burned alive in town squares."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:04:09",
+        "fact_info": "In 1973 after breaking Babe Ruth's record for career home runs Hank Aaron received a plaque from the U.S. Postal Service for receiving more mail (930,000 pieces) than any person excluding politicians",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "nfJG2ocB5ZAt_JXrY7_U",
+                    "createdDateTime": "2023-04-08T04:19:17.000Z",
+                    "date": "1973-10-01",
+                    "length": 199,
+                    "people": [
+                        "Hank Aaron"
+                    ],
+                    "tags": [
+                        "Atlanta",
+                        "US Government",
+                        "Sports"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Hank_Aaron",
+                    "status": "approved",
+                    "text": "In 1973 after breaking Babe Ruth's record for career home runs Hank Aaron received a plaque from the U.S. Postal Service for receiving more mail (930,000 pieces) than any person excluding politicians"
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:04:17",
+        "fact_info": "The mask worn by Michael Myers in the original \"Halloween\" was actually a Captain Kirk mask painted white.",
+        "raw_response": {
+            "id": "35aaa6ebc3ac1719dca8f0ef47699588",
+            "text": "The mask worn by Michael Myers in the original \"Halloween\" was actually a Captain Kirk mask painted white.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/35aaa6ebc3ac1719dca8f0ef47699588"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:04:17",
+        "fact_info": "Cats must have fat in their diet because they cannot produce it on their own.",
+        "raw_response": {
+            "data": [
+                "Cats must have fat in their diet because they cannot produce it on their own."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:04:17",
+        "fact_info": "After his death Bob Marley was awarded the fourth-highest honour by the nation of Jamaica, the Order of Merit",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "W7S4LIUBpqkA2GH5PoeG",
+                    "id": 1671492388540,
+                    "createdDateTime": "2022-12-19T23:26:28.431Z",
+                    "date": null,
+                    "length": 109,
+                    "people": [
+                        "Bob Marley"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Order_of_Merit_(Jamaica)",
+                    "status": "approved",
+                    "tags": [
+                        "Global",
+                        "Music",
+                        "Art"
+                    ],
+                    "text": "After his death Bob Marley was awarded the fourth-highest honour by the nation of Jamaica, the Order of Merit"
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:04:27",
+        "fact_info": "Cats sleep 16 to 18 hours per day. When cats are asleep, they are still alert to incoming stimuli. If you poke the tail of a sleeping cat, it will respond accordingly.",
+        "raw_response": {
+            "data": [
+                "Cats sleep 16 to 18 hours per day. When cats are asleep, they are still alert to incoming stimuli. If you poke the tail of a sleeping cat, it will respond accordingly."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:04:27",
+        "fact_info": "Half of all Americans live within 50 miles of their birthplace.",
+        "raw_response": {
+            "id": "3eac69032002b90a12abd19d3a2c509a",
+            "text": "Half of all Americans live within 50 miles of their birthplace.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/3eac69032002b90a12abd19d3a2c509a"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:04:28",
+        "fact_info": "Robert Nesta Marley OM was a Jamaican singer, musician, and songwriter.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "i7S6LIUBpqkA2GH5u4dz",
+                    "id": 1671492621765,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": null,
+                    "length": 71,
+                    "people": [
+                        "Bob Marley"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Bob_Marley",
+                    "status": "approved",
+                    "tags": [
+                        "Music",
+                        "Art",
+                        "Global"
+                    ],
+                    "text": "Robert Nesta Marley OM was a Jamaican singer, musician, and songwriter."
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:04:37",
+        "fact_info": "Cats can get tapeworms from eating mice. If your cat catches a mouse it is best to take the prize away from it.",
+        "raw_response": {
+            "data": [
+                "Cats can get tapeworms from eating mice. If your cat catches a mouse it is best to take the prize away from it."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:04:37",
+        "fact_info": "There are 293 ways to make change for a dollar.",
+        "raw_response": {
+            "id": "28c716c301c959e26f66fc3a347edd45",
+            "text": "There are 293 ways to make change for a dollar.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/28c716c301c959e26f66fc3a347edd45"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:04:47",
+        "fact_info": "A cat has more bones than a human; humans have 206, and the cat - 230.",
+        "raw_response": {
+            "data": [
+                "A cat has more bones than a human; humans have 206, and the cat - 230."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:04:47",
+        "fact_info": "38% of American men say they love their cars more than women",
+        "raw_response": {
+            "id": "8c0a54e73a103678af4464944d0a6e10",
+            "text": "38% of American men say they love their cars more than women",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/8c0a54e73a103678af4464944d0a6e10"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:04:47",
+        "fact_info": "Rube Foster is known as the \"Father of Black Baseball\" for his part in founding the Negro National League",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "SbS4LIUBpqkA2GH5PoeF",
+                    "id": 1671492388537,
+                    "createdDateTime": "2022-12-19T23:26:28.430Z",
+                    "date": null,
+                    "length": 107,
+                    "people": [
+                        "Rube Foster"
+                    ],
+                    "source": "https://www.nlbm.com/negro-leagues-history/",
+                    "status": "approved",
+                    "tags": [
+                        "Baseball",
+                        "Sports"
+                    ],
+                    "text": "Rube Foster is known as the \"Father of Black Baseball\" for his part in founding the Negro National League"
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:04:57",
+        "fact_info": "WWII fighter pilots in the South Pacific armed their airplanes while stationed with .50 caliber machine gun ammo belts measuring 27 feet before being loaded into the fuselage. If the pilots fired all their ammo at a target, he went through \"the whole 9 yards\", hence the term.",
+        "raw_response": {
+            "id": "7df7a31df2a9fe82eb58c08ba002f2bb",
+            "text": "WWII fighter pilots in the South Pacific armed their airplanes while stationed with .50 caliber machine gun ammo belts measuring 27 feet before being loaded into the fuselage. If the pilots fired all their ammo at a target, he went through \"the whole 9 yards\", hence the term.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/7df7a31df2a9fe82eb58c08ba002f2bb"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:05:07",
+        "fact_info": "Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.",
+        "raw_response": {
+            "id": "3d292e6a5b57a1e71ac3e8cb5aa18f16",
+            "text": "Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/3d292e6a5b57a1e71ac3e8cb5aa18f16"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:05:07",
+        "fact_info": "All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads.",
+        "raw_response": {
+            "data": [
+                "All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:05:08",
+        "fact_info": "Benjamin Banneker was born on November 9, 1731 in Baltimore County, Maryland",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "oPJG2ocB5ZAt_JXrY7_U",
+                    "createdDateTime": "2023-04-08T18:05:05.000Z",
+                    "date": "1731-11-09",
+                    "length": 76,
+                    "people": [
+                        "Benjamin Banneker"
+                    ],
+                    "tags": [
+                        "Birthday"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Benjamin_Banneker",
+                    "status": "approved",
+                    "text": "Benjamin Banneker was born on November 9, 1731 in Baltimore County, Maryland"
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:05:17",
+        "fact_info": "Statistics indicate that animal lovers in recent years have shown a preference for cats over dogs!",
+        "raw_response": {
+            "data": [
+                "Statistics indicate that animal lovers in recent years have shown a preference for cats over dogs!"
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:05:17",
+        "fact_info": "The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.",
+        "raw_response": {
+            "id": "69b77879a0187cf159db700b74000e67",
+            "text": "The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/69b77879a0187cf159db700b74000e67"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:05:28",
+        "fact_info": "\"I am.\" is the shortest complete sentence in the English language.",
+        "raw_response": {
+            "id": "4659d343df917f4d0538cd3e02437c78",
+            "text": "\"I am.\" is the shortest complete sentence in the English language.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/4659d343df917f4d0538cd3e02437c78"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:05:28",
+        "fact_info": "Evidence suggests domesticated cats have been around since 3600 B.C., 2,000 years before Egypts pharaohs.",
+        "raw_response": {
+            "data": [
+                "Evidence suggests domesticated cats have been around since 3600 B.C., 2,000 years before Egypts pharaohs."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:05:29",
+        "fact_info": "During the medal ceremony in the 1968 Summer Olympics gold medal winner Tommie Smith and bronze medal winner John Carlos, each raised a black-gloved fist during the playing of the US national anthem. The demonstration protesting political and racial injustice in the U.S. is one of the most overtly political statements in the history of the modern Olympics.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "t7S7LIUBpqkA2GH5bYdn",
+                    "id": 1671492622052,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": "2022-12-19T23:30:21.000Z",
+                    "length": 358,
+                    "people": [
+                        "Tommie Smith,Juan Carlos"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/1968_Olympics_Black_Power_salute#International_Olympic_Committee_response",
+                    "status": "approved",
+                    "tags": [
+                        "Sports",
+                        "Global",
+                        "Civil RIghts"
+                    ],
+                    "text": "During the medal ceremony in the 1968 Summer Olympics gold medal winner Tommie Smith and bronze medal winner John Carlos, each raised a black-gloved fist during the playing of the US national anthem. The demonstration protesting political and racial injustice in the U.S. is one of the most overtly political statements in the history of the modern Olympics."
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:05:38",
+        "fact_info": "The worlds richest cat is worth $13 million after his human passed away and left her fortune to him.",
+        "raw_response": {
+            "data": [
+                "The worlds richest cat is worth $13 million after his human passed away and left her fortune to him."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:05:38",
+        "fact_info": "Humans are the only primates that don`t have pigment in the palms of their hands.",
+        "raw_response": {
+            "id": "07050fe4ff52a051e172635fe805a65c",
+            "text": "Humans are the only primates that don`t have pigment in the palms of their hands.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/07050fe4ff52a051e172635fe805a65c"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:05:38",
+        "fact_info": "Bob Marley survived an assassination attempt in his home, which is thought to be politically motivated",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "kbS6LIUBpqkA2GH5u4dz",
+                    "id": 1671492621796,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": "2022-12-19T23:30:21.000Z",
+                    "length": 102,
+                    "people": [
+                        "Bob Marley"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Bob_Marley",
+                    "status": "approved",
+                    "tags": [
+                        "Music",
+                        "Politics"
+                    ],
+                    "text": "Bob Marley survived an assassination attempt in his home, which is thought to be politically motivated"
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:05:49",
+        "fact_info": "The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.",
+        "raw_response": {
+            "id": "afb4e4bf796ca4524d6a7384e0c61311",
+            "text": "The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/afb4e4bf796ca4524d6a7384e0c61311"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:05:49",
+        "fact_info": "The ancestor of all domestic cats is the African Wild Cat which still exists today.",
+        "raw_response": {
+            "data": [
+                "The ancestor of all domestic cats is the African Wild Cat which still exists today."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:05:49",
+        "fact_info": "Carter G Woodson was a historian, author and journalist",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "lrS6LIUBpqkA2GH5u4dz",
+                    "id": 1671492621749,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": null,
+                    "length": 55,
+                    "people": [
+                        "Carter G Woodson"
+                    ],
+                    "source": "https://naacp.org/find-resources/history-explained/civil-rights-leaders/carter-g-woodson",
+                    "status": "approved",
+                    "tags": [
+                        "Literature"
+                    ],
+                    "text": "Carter G Woodson was a historian, author and journalist"
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:05:58",
+        "fact_info": "Owls are one of the only birds who can see the color blue!",
+        "raw_response": {
+            "id": "b66fa82abb85ce8bff8e269216dd3079",
+            "text": "Owls are one of the only birds who can see the color blue!",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/b66fa82abb85ce8bff8e269216dd3079"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:05:58",
+        "fact_info": "In 1982, Hank Aaron, an Atlanta Braves baseball player, was inducted into the Baseball Hall of Fame.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "nPJG2ocB5ZAt_JXrY7_U",
+                    "createdDateTime": "2023-04-08T04:13:48.000Z",
+                    "date": "1982-08-01",
+                    "length": 100,
+                    "people": [
+                        "Hank Aaron"
+                    ],
+                    "tags": [
+                        "Atlanta",
+                        "US Government",
+                        "Sports"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Hank_Aaron",
+                    "status": "approved",
+                    "text": "In 1982, Hank Aaron, an Atlanta Braves baseball player, was inducted into the Baseball Hall of Fame."
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:06:08",
+        "fact_info": "Cats can be taught to walk on a leash, but a lot of time and patience is required to teach them. The younger the cat is, the easier it will be for them to learn.",
+        "raw_response": {
+            "data": [
+                "Cats can be taught to walk on a leash, but a lot of time and patience is required to teach them. The younger the cat is, the easier it will be for them to learn."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:06:08",
+        "fact_info": "Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.",
+        "raw_response": {
+            "id": "c2e9454232719d4d9ccff379fc11700c",
+            "text": "Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/c2e9454232719d4d9ccff379fc11700c"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:06:09",
+        "fact_info": "Barack Obama served as the 44th President of the United States from 2009-2017",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "sLS7LIUBpqkA2GH5bYdn",
+                    "id": 1671492621771,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": "2022-12-19T23:30:21.000Z",
+                    "length": 77,
+                    "people": [
+                        "Barack Obama"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Barack_Obama",
+                    "status": "approved",
+                    "tags": [
+                        "US Government",
+                        "Government",
+                        "Firsts"
+                    ],
+                    "text": "Barack Obama served as the 44th President of the United States from 2009-2017"
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:06:19",
+        "fact_info": "There are 1,792 steps in the Eiffel Tower",
+        "raw_response": {
+            "id": "50d9cf341be86508620436420c6f7c11",
+            "text": "There are 1,792 steps in the Eiffel Tower",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/50d9cf341be86508620436420c6f7c11"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:06:19",
+        "fact_info": "Cats are the most popular pet in the United States: There are 88 million pet cats and 74 million dogs.",
+        "raw_response": {
+            "data": [
+                "Cats are the most popular pet in the United States: There are 88 million pet cats and 74 million dogs."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:06:19",
+        "fact_info": "Nelson Rolihlahla Mandela, byname Madiba, was born July 18, 1918 in Mvezo, South Africa",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "sLTmAoUBpqkA2GH50nUN",
+                    "id": 1181901396,
+                    "createdDateTime": "2022-07-07T23:32:41.160Z",
+                    "date": "1918-07-18",
+                    "length": 87,
+                    "people": [
+                        "Nelson Mandela"
+                    ],
+                    "source": "https://www.britannica.com/biography/Nelson-Mandela",
+                    "status": "approved",
+                    "tags": [
+                        "birthday"
+                    ],
+                    "text": "Nelson Rolihlahla Mandela, byname Madiba, was born July 18, 1918 in Mvezo, South Africa"
+                }
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:06:28",
+        "fact_info": "Rube Foster was born",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "eLS6LIUBpqkA2GH5u4dz",
+                    "id": 1671492621713,
+                    "createdDateTime": "2022-12-19T23:30:21.693Z",
+                    "date": "2022-12-19T23:30:21.000Z",
+                    "length": 20,
+                    "people": [
+                        "Rube Foster"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Rube_Foster",
+                    "status": "approved",
+                    "tags": [
+                        "Birthday"
+                    ],
+                    "text": "Rube Foster was born"
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:06:28",
+        "fact_info": "Lorne Greene had one of his nipples bitten off by an alligator while he was host of \"Lorne Greene`s Wild Kingdom.\"",
+        "raw_response": {
+            "id": "59d1978ea987b4c3187f2d4181cacd05",
+            "text": "Lorne Greene had one of his nipples bitten off by an alligator while he was host of \"Lorne Greene`s Wild Kingdom.\"",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/59d1978ea987b4c3187f2d4181cacd05"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:06:28",
+        "fact_info": "Similarly, the frequency of a domestic cats purr is the same at which muscles and bones repair themselves.",
+        "raw_response": {
+            "data": [
+                "Similarly, the frequency of a domestic cats purr is the same at which muscles and bones repair themselves."
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:06:38",
+        "fact_info": "Owning a cat can reduce the risk of stroke and heart attack by a third.",
+        "raw_response": {
+            "data": [
+                "Owning a cat can reduce the risk of stroke and heart attack by a third."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:06:38",
+        "fact_info": "The sperm of a mouse is actually longer than the sperm of an elephant.",
+        "raw_response": {
+            "id": "50b0cf529872b4666c37ebe8b73d690e",
+            "text": "The sperm of a mouse is actually longer than the sperm of an elephant.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/50b0cf529872b4666c37ebe8b73d690e"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:06:49",
+        "fact_info": "Rube Foster is widely considered by historians to have been the best African-American pitcher of the first decade of the 1900s.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "R7S4LIUBpqkA2GH5PoeF",
+                    "id": 1671492388557,
+                    "createdDateTime": "2022-12-19T23:26:28.430Z",
+                    "date": null,
+                    "length": 127,
+                    "people": [
+                        "Rube Foster"
+                    ],
+                    "source": null,
+                    "status": "approved",
+                    "tags": [
+                        "Baseball",
+                        "Sports"
+                    ],
+                    "text": "Rube Foster is widely considered by historians to have been the best African-American pitcher of the first decade of the 1900s."
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:06:49",
+        "fact_info": "Baking chocolate is the most dangerous chocolate to your cat.",
+        "raw_response": {
+            "data": [
+                "Baking chocolate is the most dangerous chocolate to your cat."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:06:49",
+        "fact_info": "Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.",
+        "raw_response": {
+            "id": "fe4e5b02071c024e48c7cca52f3cfb69",
+            "text": "Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/fe4e5b02071c024e48c7cca52f3cfb69"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:06:57",
+        "fact_info": "Koala is Aboriginal for \"no drink\".",
+        "raw_response": {
+            "id": "4f9926c641eb7cf0c117cb0d1c88ce2d",
+            "text": "Koala is Aboriginal for \"no drink\".",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/4f9926c641eb7cf0c117cb0d1c88ce2d"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:06:57",
+        "fact_info": "Your cat recognizes your voice but just acts too cool to care (probably because they are).",
+        "raw_response": {
+            "data": [
+                "Your cat recognizes your voice but just acts too cool to care (probably because they are)."
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:07:08",
+        "fact_info": "Neutering a cat extends its life span by two or three years.",
+        "raw_response": {
+            "data": [
+                "Neutering a cat extends its life span by two or three years."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:07:18",
+        "fact_info": "There is a town in Newfoundland, Canada called Dildo.",
+        "raw_response": {
+            "id": "7f69cfb718747173f86b1630b5369724",
+            "text": "There is a town in Newfoundland, Canada called Dildo.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/7f69cfb718747173f86b1630b5369724"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:07:28",
+        "fact_info": "The first song played on Armed Forces Radio during operation Desert Shield was \"Rock the Casba\" by the Clash.",
+        "raw_response": {
+            "id": "9f83204cc20fd3f78ff32c77e78d317b",
+            "text": "The first song played on Armed Forces Radio during operation Desert Shield was \"Rock the Casba\" by the Clash.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/9f83204cc20fd3f78ff32c77e78d317b"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:07:28",
+        "fact_info": "Greenwood, Oklahoma, also known as Black Wall Street, was one of the most successful Black economies in American history",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "lLS6LIUBpqkA2GH5u4dz",
+                    "id": 1671492621814,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": null,
+                    "length": 120,
+                    "people": [
+                        "OW Gurley,John Stradford"
+                    ],
+                    "source": "https://www.investopedia.com/insights/origins-black-wall-street/",
+                    "status": "approved",
+                    "tags": [
+                        "Economics"
+                    ],
+                    "text": "Greenwood, Oklahoma, also known as Black Wall Street, was one of the most successful Black economies in American history"
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:07:38",
+        "fact_info": "Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.",
+        "raw_response": {
+            "id": "2ea1716471a842590af16b524a1937d0",
+            "text": "Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/2ea1716471a842590af16b524a1937d0"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:07:38",
+        "fact_info": "In 1992, Cynthia McKinney became the first African American woman to represent Georgia in the United States House of Representatives.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "n_JG2ocB5ZAt_JXrY7_U",
+                    "createdDateTime": "2023-04-08T04:28:26.000Z",
+                    "date": "1992-11-03",
+                    "length": 133,
+                    "people": [
+                        "Cynthia McKinney"
+                    ],
+                    "tags": [
+                        "Georgia",
+                        "US Government"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Cynthia_McKinney",
+                    "status": "approved",
+                    "text": "In 1992, Cynthia McKinney became the first African American woman to represent Georgia in the United States House of Representatives."
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:07:38",
+        "fact_info": "Cats can jump up to six times their length.",
+        "raw_response": {
+            "data": [
+                "Cats can jump up to six times their length."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:07:48",
+        "fact_info": "In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.",
+        "raw_response": {
+            "id": "7adaa9e435321805de94588dac3477b1",
+            "text": "In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/7adaa9e435321805de94588dac3477b1"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:07:48",
+        "fact_info": "Both humans and cats have identical regions in the brain responsible for emotion.",
+        "raw_response": {
+            "data": [
+                "Both humans and cats have identical regions in the brain responsible for emotion."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:07:48",
+        "fact_info": "Angela Davis co founded Critical Resistance, an organization working to abolish the prison-industrial complex",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "iLS6LIUBpqkA2GH5u4dz",
+                    "id": 1671492621803,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": null,
+                    "length": 109,
+                    "people": [
+                        "Angela Davis"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Critical_Resistance",
+                    "status": "approved",
+                    "tags": [
+                        "Civil RIghts"
+                    ],
+                    "text": "Angela Davis co founded Critical Resistance, an organization working to abolish the prison-industrial complex"
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:07:58",
+        "fact_info": "Ingrown toenails are hereditary.  ",
+        "raw_response": {
+            "id": "6008fc96c6043c62735183ae5fcf77d4",
+            "text": "Ingrown toenails are hereditary.  ",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/6008fc96c6043c62735183ae5fcf77d4"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:08:08",
+        "fact_info": "Honeybees have a type of hair on their eyes!",
+        "raw_response": {
+            "id": "2d3c894edcfdf19b8a94f7473ee1e3fe",
+            "text": "Honeybees have a type of hair on their eyes!",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/2d3c894edcfdf19b8a94f7473ee1e3fe"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:08:08",
+        "fact_info": "The catnip plant contains an oil called hepetalactone which does for cats what marijuana does to some people. Not all cats react to it those that do appear to enter a trancelike state. A positive reaction takes the form of the cat sniffing the catnip, then licking, biting, chewing it, rub & rolling on it repeatedly, purring, meowing & even leaping in the air.",
+        "raw_response": {
+            "data": [
+                "The catnip plant contains an oil called hepetalactone which does for cats what marijuana does to some people. Not all cats react to it those that do appear to enter a trancelike state. A positive reaction takes the form of the cat sniffing the catnip, then licking, biting, chewing it, rub & rolling on it repeatedly, purring, meowing & even leaping in the air."
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:08:17",
+        "fact_info": "Cats can not taste sweetness.",
+        "raw_response": {
+            "data": [
+                "Cats can not taste sweetness."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:08:17",
+        "fact_info": "Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.",
+        "raw_response": {
+            "id": "f91324a0ee29f683819108accdf1adb5",
+            "text": "Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/f91324a0ee29f683819108accdf1adb5"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:08:27",
+        "fact_info": "It was discovered on a space mission that a frog can throw up. The frog throws up its stomach first, so the stomach is dangling out of its mouth. Then the frog uses its forearms to dig out all of the stomach`s contents and then swallows the stomach back down.",
+        "raw_response": {
+            "id": "422195f917c2d180bd9398545215c236",
+            "text": "It was discovered on a space mission that a frog can throw up. The frog throws up its stomach first, so the stomach is dangling out of its mouth. Then the frog uses its forearms to dig out all of the stomach`s contents and then swallows the stomach back down.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/422195f917c2d180bd9398545215c236"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:08:39",
+        "fact_info": "Barack Obama negotiated and normalized U.S. relations with Cuba in 2016-5",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "UbS4LIUBpqkA2GH5PoeF",
+                    "id": 1671492388503,
+                    "createdDateTime": "2022-12-19T23:26:28.430Z",
+                    "date": null,
+                    "length": 73,
+                    "people": [
+                        "Barack Obama"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Barack_Obama",
+                    "status": "approved",
+                    "tags": [
+                        "US Government",
+                        "Global"
+                    ],
+                    "text": "Barack Obama negotiated and normalized U.S. relations with Cuba in 2016-5"
+                }
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:08:48",
+        "fact_info": "Bessie Coleman was born in Atlanta, Texas",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "o7S6LIUBpqkA2GH5u4dz",
+                    "id": 1671492621735,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": "2022-12-19T23:30:21.000Z",
+                    "length": 41,
+                    "people": [
+                        "Bessie Coleman"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Bessie_Coleman#Honors",
+                    "status": "approved",
+                    "tags": [
+                        "Birthday"
+                    ],
+                    "text": "Bessie Coleman was born in Atlanta, Texas"
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:08:48",
+        "fact_info": "A cat has 32 muscles in each ear.",
+        "raw_response": {
+            "id": "a2431ba4bac75532e8ec9f36c76d44b6",
+            "text": "A cat has 32 muscles in each ear.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/a2431ba4bac75532e8ec9f36c76d44b6"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:08:58",
+        "fact_info": "Contrary to popular belief, the cat is a social animal. A pet cat will respond and answer to speech , and seems to enjoy human companionship.",
+        "raw_response": {
+            "data": [
+                "Contrary to popular belief, the cat is a social animal. A pet cat will respond and answer to speech , and seems to enjoy human companionship."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:08:58",
+        "fact_info": "Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates",
+        "raw_response": {
+            "id": "45b12cfc736ceff39a78325d3416d136",
+            "text": "Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/45b12cfc736ceff39a78325d3416d136"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:09:08",
+        "fact_info": "NBA superstar Michael Jordan was originally cut from his high school basketball team.",
+        "raw_response": {
+            "id": "67f7ce58134fb4db777af97b8d9acf0e",
+            "text": "NBA superstar Michael Jordan was originally cut from his high school basketball team.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/67f7ce58134fb4db777af97b8d9acf0e"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:09:18",
+        "fact_info": "It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.",
+        "raw_response": {
+            "id": "4de0e54a11c3cd1a0fcfa8275c0e4daa",
+            "text": "It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/4de0e54a11c3cd1a0fcfa8275c0e4daa"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:09:18",
+        "fact_info": "Cats are subject to gum disease and to dental caries. They should have their teeth cleaned by the vet or the cat dentist once a year.",
+        "raw_response": {
+            "data": [
+                "Cats are subject to gum disease and to dental caries. They should have their teeth cleaned by the vet or the cat dentist once a year."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:09:18",
+        "fact_info": "Bob Marley was the first global pop start to emerge from a developing nation.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "WrS4LIUBpqkA2GH5PoeG",
+                    "id": 1671492388508,
+                    "createdDateTime": "2022-12-19T23:26:28.431Z",
+                    "date": null,
+                    "length": 77,
+                    "people": [
+                        "Bob Marley"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Bob_Marley",
+                    "status": "approved",
+                    "tags": [
+                        "Music",
+                        "Firsts",
+                        "Global"
+                    ],
+                    "text": "Bob Marley was the first global pop start to emerge from a developing nation."
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:09:28",
+        "fact_info": "A person cannot taste food unless it is mixed with saliva. For example, if a strong-tasting substance like salt is placed on a dry tongue, the taste buds will not be able to taste it. As soon as a drop of saliva is added and the salt is dissolved, however, a definite taste sensation results. This is true for all foods.",
+        "raw_response": {
+            "id": "643500f128749ac605c663e113b55886",
+            "text": "A person cannot taste food unless it is mixed with saliva. For example, if a strong-tasting substance like salt is placed on a dry tongue, the taste buds will not be able to taste it. As soon as a drop of saliva is added and the salt is dissolved, however, a definite taste sensation results. This is true for all foods.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/643500f128749ac605c663e113b55886"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:09:38",
+        "fact_info": "The most common street name in the U.S. is Second Street.",
+        "raw_response": {
+            "id": "ee9963476ac14791751f095e554d7bf2",
+            "text": "The most common street name in the U.S. is Second Street.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/ee9963476ac14791751f095e554d7bf2"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:09:38",
+        "fact_info": "Cats are often lactose intolerant, so stop givin them milk!",
+        "raw_response": {
+            "data": [
+                "Cats are often lactose intolerant, so stop givin them milk!"
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:09:48",
+        "fact_info": "Cats can get tapeworms from eating fleas. These worms live inside the cat forever, or until they are removed with medication. They reproduce by shedding a link from the end of their long bodies. This link crawls out the cat's anus, and sheds hundreds of eggs. These eggs are injested by flea larvae, and the cycles continues. Humans may get these tapeworms too, but only if they eat infected fleas. Cats with tapeworms should be dewormed by a veterinarian.",
+        "raw_response": {
+            "data": [
+                "Cats can get tapeworms from eating fleas. These worms live inside the cat forever, or until they are removed with medication. They reproduce by shedding a link from the end of their long bodies. This link crawls out the cat's anus, and sheds hundreds of eggs. These eggs are injested by flea larvae, and the cycles continues. Humans may get these tapeworms too, but only if they eat infected fleas. Cats with tapeworms should be dewormed by a veterinarian."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:09:48",
+        "fact_info": "Rube Foster founded and managed the Chicago American Giants, one of the most successful black baseball teams.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "erS6LIUBpqkA2GH5u4dz",
+                    "id": 1671492621802,
+                    "createdDateTime": "2022-12-19T23:30:21.693Z",
+                    "date": "2022-12-19T23:30:21.000Z",
+                    "length": 109,
+                    "people": [
+                        "Rube Foster"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Chicago_American_Giants",
+                    "status": "approved",
+                    "tags": [
+                        "Baseball",
+                        "Sports",
+                        "Firsts"
+                    ],
+                    "text": "Rube Foster founded and managed the Chicago American Giants, one of the most successful black baseball teams."
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:09:58",
+        "fact_info": "In 1986 Congress & President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.",
+        "raw_response": {
+            "id": "9fbb54b2da8115bf6d69bdafc5118bb2",
+            "text": "In 1986 Congress & President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/9fbb54b2da8115bf6d69bdafc5118bb2"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:09:58",
+        "fact_info": "Tylenol and chocolate are both poisonous to cats.",
+        "raw_response": {
+            "data": [
+                "Tylenol and chocolate are both poisonous to cats."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:09:59",
+        "fact_info": "Lauryn Hill is the only female artist in Grammys history to win album of the year for an album on which she was the sole producer.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "lfJG2ocB5ZAt_JXrY7_U",
+                    "createdDateTime": "2023-04-08T00:31:16.000Z",
+                    "date": "1994-11-15",
+                    "length": 130,
+                    "people": [
+                        "Lauryn Hill"
+                    ],
+                    "tags": [
+                        "Music",
+                        "Firsts"
+                    ],
+                    "source": "https://www.insider.com/black-grammys-winners-album-of-the-year#1999-lauryn-hill-7",
+                    "status": "approved",
+                    "text": "Lauryn Hill is the only female artist in Grammys history to win album of the year for an album on which she was the sole producer."
+                }
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:10:09",
+        "fact_info": "In 1981 Rube Foster was elected to the National Baseball Hall of Fame.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "fbS6LIUBpqkA2GH5u4dz",
+                    "id": 1671492621764,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": null,
+                    "length": 70,
+                    "people": [
+                        "Rube Foster"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Rube_Foster#Legacy",
+                    "status": "approved",
+                    "tags": [
+                        "Baseball",
+                        "Sports"
+                    ],
+                    "text": "In 1981 Rube Foster was elected to the National Baseball Hall of Fame."
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:10:18",
+        "fact_info": "Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as \"tree nuts\"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods.",
+        "raw_response": {
+            "id": "825d241493fb169b08bbee4e3f4706f2",
+            "text": "Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as \"tree nuts\"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods.",
+            "source": "peanut-institute.org",
+            "source_url": "peanut-institute.org",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/825d241493fb169b08bbee4e3f4706f2"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:10:28",
+        "fact_info": "Recycling one glass jar, saves enough energy to watch T.V for 3 hours!",
+        "raw_response": {
+            "id": "f9be0d74e1189d5d2ed9b3333d42c17b",
+            "text": "Recycling one glass jar, saves enough energy to watch T.V for 3 hours!",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/f9be0d74e1189d5d2ed9b3333d42c17b"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:10:38",
+        "fact_info": "In Vermont, the ratio of cows to people is 10:1",
+        "raw_response": {
+            "id": "ee59ae25da83bd38dc1494cf221bc798",
+            "text": "In Vermont, the ratio of cows to people is 10:1",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/ee59ae25da83bd38dc1494cf221bc798"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:10:48",
+        "fact_info": "The phrase \"rule of thumb\" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.",
+        "raw_response": {
+            "id": "767cc2a2415bfc9405ad769e5deb0d48",
+            "text": "The phrase \"rule of thumb\" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/767cc2a2415bfc9405ad769e5deb0d48"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:10:57",
+        "fact_info": "The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.",
+        "raw_response": {
+            "id": "0ba5435b2f0e553f32c970e07338668b",
+            "text": "The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/0ba5435b2f0e553f32c970e07338668b"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:10:57",
+        "fact_info": "Carter G Woodson was born in Shaw, Washington, D.C.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "zbS7LIUBpqkA2GH5bYdn",
+                    "id": 1671492621745,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": "2022-12-19T23:30:21.000Z",
+                    "length": 51,
+                    "people": [
+                        "Carter G Woodson"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Carter_G._Woodson",
+                    "status": "approved",
+                    "tags": [
+                        "Birthday"
+                    ],
+                    "text": "Carter G Woodson was born in Shaw, Washington, D.C."
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:11:08",
+        "fact_info": "Cats bury their feces to cover their trails from predators.",
+        "raw_response": {
+            "data": [
+                "Cats bury their feces to cover their trails from predators."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:11:08",
+        "fact_info": "A horse can look forward with one eye and back with the other.",
+        "raw_response": {
+            "id": "8c8f92c9c74bdab48d73bbdce50c06d5",
+            "text": "A horse can look forward with one eye and back with the other.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/8c8f92c9c74bdab48d73bbdce50c06d5"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:11:18",
+        "fact_info": "If you went out into space, you would explode before you suffocated because there`s no air pressure.",
+        "raw_response": {
+            "id": "577f032ea57e1c32762865f1c0db1079",
+            "text": "If you went out into space, you would explode before you suffocated because there`s no air pressure.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/577f032ea57e1c32762865f1c0db1079"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:11:28",
+        "fact_info": "Most Egyptians died by the time they were 30 about 300 years ago,",
+        "raw_response": {
+            "id": "b44a9ceba68922ec181361c71f77a6e3",
+            "text": "Most Egyptians died by the time they were 30 about 300 years ago,",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/b44a9ceba68922ec181361c71f77a6e3"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:11:28",
+        "fact_info": "Cats have contributed to the extinction of 33 different species.",
+        "raw_response": {
+            "data": [
+                "Cats have contributed to the extinction of 33 different species."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:11:38",
+        "fact_info": "There are more plastic flamingos in the U.S that there are real ones.",
+        "raw_response": {
+            "id": "134854ab8504d3d5bafa7a0f0686c8cb",
+            "text": "There are more plastic flamingos in the U.S that there are real ones.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/134854ab8504d3d5bafa7a0f0686c8cb"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:11:48",
+        "fact_info": "Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning \"containing arsenic.\"  ",
+        "raw_response": {
+            "id": "9bdc30bb257d1e50ec2fb504357cf66a",
+            "text": "Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning \"containing arsenic.\"  ",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/9bdc30bb257d1e50ec2fb504357cf66a"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:11:58",
+        "fact_info": "Outkast became the first hip-hop group to win Album of the Year at the Grammy Awards in 2004 for their album Speakerboxxx/The Love Below\".",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "k_JG2ocB5ZAt_JXrY7_U",
+                    "createdDateTime": "2023-04-08T00:08:48.000Z",
+                    "date": "2004-02-08",
+                    "length": 139,
+                    "people": [
+                        "Outkast",
+                        "Big Boi",
+                        "Andre 3000"
+                    ],
+                    "tags": [
+                        "Atlanta",
+                        "Music",
+                        "Firsts"
+                    ],
+                    "source": "https://www.grammy.com/news/outkast-wins-album-year-speakerboxxx-love-below-2004-grammy-rewind",
+                    "status": "approved",
+                    "text": "Outkast became the first hip-hop group to win Album of the Year at the Grammy Awards in 2004 for their album Speakerboxxx/The Love Below\"."
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:11:58",
+        "fact_info": "It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.",
+        "raw_response": {
+            "id": "aac38ec3fc45d931a0080c0d967c3fc9",
+            "text": "It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/aac38ec3fc45d931a0080c0d967c3fc9"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:12:08",
+        "fact_info": "Average number of days a West German goes without washing his underwear: 7",
+        "raw_response": {
+            "id": "b430a5972f82935200b553a51ab74e32",
+            "text": "Average number of days a West German goes without washing his underwear: 7",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/b430a5972f82935200b553a51ab74e32"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:12:27",
+        "fact_info": "American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.",
+        "raw_response": {
+            "id": "2816ebbc4eea1dfd7811ee46e3e97b33",
+            "text": "American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/2816ebbc4eea1dfd7811ee46e3e97b33"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:12:38",
+        "fact_info": "To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.",
+        "raw_response": {
+            "id": "8198a291cc48ce10c45937ba9b35a395",
+            "text": "To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/8198a291cc48ce10c45937ba9b35a395"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:12:48",
+        "fact_info": "Purring not always means happiness. Purring could mean a cat is in terrible pain such as during childbirth. Kitten will purr to their mother to let her know they are getting enough milk while nursing. Purring is a process of inhaling and exhaling, usually performed while the mouth is closed. But don't worry, if your cat is purring while your gently petting her and holding her close to you - that is a happy cat!",
+        "raw_response": {
+            "data": [
+                "Purring not always means happiness. Purring could mean a cat is in terrible pain such as during childbirth. Kitten will purr to their mother to let her know they are getting enough milk while nursing. Purring is a process of inhaling and exhaling, usually performed while the mouth is closed. But don't worry, if your cat is purring while your gently petting her and holding her close to you - that is a happy cat!"
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:12:58",
+        "fact_info": "The Maine Coone is the only native American long haired breed.",
+        "raw_response": {
+            "data": [
+                "The Maine Coone is the only native American long haired breed."
+            ]
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:12:58",
+        "fact_info": "Lauryn Hill won album of the year in 1999 for her debut solo album, The Miseducation of Lauryn Hill.\", she is the first hip hop artist to win the award.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "lPJG2ocB5ZAt_JXrY7_U",
+                    "createdDateTime": "2023-04-08T00:14:10.000Z",
+                    "date": "1994-11-15",
+                    "length": 153,
+                    "people": [
+                        "Lauryn Hill"
+                    ],
+                    "tags": [
+                        "Music",
+                        "Firsts"
+                    ],
+                    "source": "https://www.insider.com/black-grammys-winners-album-of-the-year#1999-lauryn-hill-7",
+                    "status": "approved",
+                    "text": "Lauryn Hill won album of the year in 1999 for her debut solo album, The Miseducation of Lauryn Hill.\", she is the first hip hop artist to win the award."
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:12:58",
+        "fact_info": "The Human eyes never grow, but nose and ears never stop growing.",
+        "raw_response": {
+            "id": "9affce97abded4e8d935e3166b6e9361",
+            "text": "The Human eyes never grow, but nose and ears never stop growing.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/9affce97abded4e8d935e3166b6e9361"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:13:08",
+        "fact_info": "It is illegal to hunt camels in the state of Arizona.",
+        "raw_response": {
+            "id": "58ce5dab7f78d74d7caecc21e4cdcbf6",
+            "text": "It is illegal to hunt camels in the state of Arizona.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/58ce5dab7f78d74d7caecc21e4cdcbf6"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:13:08",
+        "fact_info": "Cats do not think that they are little people. They think that we are big cats. This influences their behavior in many ways.",
+        "raw_response": {
+            "data": [
+                "Cats do not think that they are little people. They think that we are big cats. This influences their behavior in many ways."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:13:18",
+        "fact_info": "Virginia Woolf wrote all her books standing.",
+        "raw_response": {
+            "id": "3b3dd7608388f9341fe1d2878a5c7f5b",
+            "text": "Virginia Woolf wrote all her books standing.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/3b3dd7608388f9341fe1d2878a5c7f5b"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:13:19",
+        "fact_info": "In 1994 Bob Marley was inducted into the Rock and Roll Hall of Fame.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "wLS7LIUBpqkA2GH5bYdn",
+                    "id": 1671492621762,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": "2022-12-19T23:30:21.000Z",
+                    "length": 68,
+                    "people": [
+                        "Bob Marley"
+                    ],
+                    "source": "https://www.cleveland.com/rockhall/2012/01/rock_and_roll_hall_of_fame_cla_9.html",
+                    "status": "approved",
+                    "tags": [
+                        "Music"
+                    ],
+                    "text": "In 1994 Bob Marley was inducted into the Rock and Roll Hall of Fame."
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:13:28",
+        "fact_info": "When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.",
+        "raw_response": {
+            "id": "1725e8fc3c1b4f93d7a49a11d20ec087",
+            "text": "When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/1725e8fc3c1b4f93d7a49a11d20ec087"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:13:39",
+        "fact_info": "A cat has been mayor of Talkeetna, Alaska, for 15 years. His name is Stubbs.",
+        "raw_response": {
+            "data": [
+                "A cat has been mayor of Talkeetna, Alaska, for 15 years. His name is Stubbs."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:13:38",
+        "fact_info": "Lawn darts are illegal in Canada.",
+        "raw_response": {
+            "id": "804a39e42d7ea192bacd2b885554376a",
+            "text": "Lawn darts are illegal in Canada.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/804a39e42d7ea192bacd2b885554376a"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:13:39",
+        "fact_info": "Carter G. Woodson was a member of the Omega Psi Phi fraternity.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "yrS7LIUBpqkA2GH5bYdn",
+                    "id": 1671492621757,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": null,
+                    "length": 63,
+                    "people": [
+                        "Carter G Woodson"
+                    ],
+                    "source": "https://www.ajc.com/news/national/who-was-carter-woodson-things-know-about-the-father-black-history/E04rvvg6CaRvV17zRZcZ1K/",
+                    "status": "approved",
+                    "tags": [
+                        "Education",
+                        "Divine 9"
+                    ],
+                    "text": "Carter G. Woodson was a member of the Omega Psi Phi fraternity."
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:13:49",
+        "fact_info": "Each month, there is at least one report of UFOs from each province of Canada.",
+        "raw_response": {
+            "id": "df69791df8a67ebd2c88ee182c7dbe11",
+            "text": "Each month, there is at least one report of UFOs from each province of Canada.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/df69791df8a67ebd2c88ee182c7dbe11"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:13:58",
+        "fact_info": "The buzz from an electric razor in America plays in the key of B flat; Key of G in England.",
+        "raw_response": {
+            "id": "80b79a49182ff57675721e18d31f1763",
+            "text": "The buzz from an electric razor in America plays in the key of B flat; Key of G in England.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/80b79a49182ff57675721e18d31f1763"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:14:10",
+        "fact_info": "The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  ",
+        "raw_response": {
+            "id": "f752747ec40125d2cd322ac18cf771ba",
+            "text": "The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  ",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/f752747ec40125d2cd322ac18cf771ba"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:14:18",
+        "fact_info": "Carter G Woodson wrote the book \"The Mis-Education of the Negro\" in 1933, one of the most important books of the 20th century",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "y7S7LIUBpqkA2GH5bYdn",
+                    "id": 1671492621821,
+                    "createdDateTime": "2022-12-19T23:30:21.694Z",
+                    "date": "2022-12-19T23:30:21.000Z",
+                    "length": 127,
+                    "people": [
+                        "Carter G Woodson"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/The_Mis-Education_of_the_Negro",
+                    "status": "approved",
+                    "tags": [
+                        "Literature"
+                    ],
+                    "text": "Carter G Woodson wrote the book \"The Mis-Education of the Negro\" in 1933, one of the most important books of the 20th century"
+                }
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:14:18",
+        "fact_info": "More people are killed annually by donkeys than airplane crashes.",
+        "raw_response": {
+            "id": "c5253fdee983783966d24ed4cd6d2505",
+            "text": "More people are killed annually by donkeys than airplane crashes.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/c5253fdee983783966d24ed4cd6d2505"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:14:28",
+        "fact_info": "Cats have over 20 muscles that control their ears.",
+        "raw_response": {
+            "data": [
+                "Cats have over 20 muscles that control their ears."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:14:28",
+        "fact_info": "Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.",
+        "raw_response": {
+            "id": "5ad6f78d21d75b46bb4893d1ea870524",
+            "text": "Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/5ad6f78d21d75b46bb4893d1ea870524"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:14:38",
+        "fact_info": "All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.",
+        "raw_response": {
+            "id": "dff1e443050711c68b7a753b70de49ad",
+            "text": "All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/dff1e443050711c68b7a753b70de49ad"
+        }
+    },
+    {
+        "source": "black_history_api",
+        "get_time": "05/04/2023, 16:14:48",
+        "fact_info": "In 2019, Tyler Perry opened Tyler Perry Studios in Atlanta, it is the largest film production studio in the US and the first fully-owned African American film studio.",
+        "raw_response": {
+            "TotalResults": 126,
+            "Results": [
+                {
+                    "_id": "mfJG2ocB5ZAt_JXrY7_U",
+                    "createdDateTime": "2023-04-08T03:56:50.000Z",
+                    "date": "2019-10-05",
+                    "length": 166,
+                    "people": [
+                        "Tyler Perry"
+                    ],
+                    "tags": [
+                        "Atlanta",
+                        "Firsts",
+                        "Film",
+                        "Acting"
+                    ],
+                    "source": "https://en.wikipedia.org/wiki/Tyler_Perry_Studios",
+                    "status": "approved",
+                    "text": "In 2019, Tyler Perry opened Tyler Perry Studios in Atlanta, it is the largest film production studio in the US and the first fully-owned African American film studio."
+                }
+            ]
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:14:48",
+        "fact_info": "Almost 10% of a cat's bones are in its tail, and the tail is used to maintain balance.",
+        "raw_response": {
+            "data": [
+                "Almost 10% of a cat's bones are in its tail, and the tail is used to maintain balance."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:14:48",
+        "fact_info": "Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.",
+        "raw_response": {
+            "id": "f2e92a6588058c8d14487fb0c26a3f34",
+            "text": "Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/f2e92a6588058c8d14487fb0c26a3f34"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:14:58",
+        "fact_info": "A cats purr may be a form of self-healing, as it can be a sign of nervousness as well as contentment.",
+        "raw_response": {
+            "data": [
+                "A cats purr may be a form of self-healing, as it can be a sign of nervousness as well as contentment."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:15:08",
+        "fact_info": "The average North American will eat 35,000 cookies during their life span.",
+        "raw_response": {
+            "id": "e02d2e9a0bc1c19edd341bd53fd7aebc",
+            "text": "The average North American will eat 35,000 cookies during their life span.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/e02d2e9a0bc1c19edd341bd53fd7aebc"
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:15:18",
+        "fact_info": "A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.",
+        "raw_response": {
+            "id": "fd6334f8e334eb61bb9605972c063364",
+            "text": "A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/fd6334f8e334eb61bb9605972c063364"
+        }
+    },
+    {
+        "source": "cat_api",
+        "get_time": "05/04/2023, 16:15:18",
+        "fact_info": "A cat can sprint at about thirty-one miles per hour.",
+        "raw_response": {
+            "data": [
+                "A cat can sprint at about thirty-one miles per hour."
+            ]
+        }
+    },
+    {
+        "source": "useless_api",
+        "get_time": "05/04/2023, 16:15:28",
+        "fact_info": "Conception occurs most in the month of December.",
+        "raw_response": {
+            "id": "d5c662734dc19d7f3914d782dd44ff25",
+            "text": "Conception occurs most in the month of December.",
+            "source": "djtech.net",
+            "source_url": "http://www.djtech.net/humor/useless_facts.htm",
+            "language": "en",
+            "permalink": "https://uselessfacts.jsph.pl/api/v2/facts/d5c662734dc19d7f3914d782dd44ff25"
+        }
+    }
+]

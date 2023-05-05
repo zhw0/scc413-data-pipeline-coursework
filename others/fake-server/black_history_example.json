@@ -1,0 +1,110 @@
+[
+    {
+        "TotalResults": 108,
+        "Results": [
+            {
+                "_id": "j7S6LIUBpqkA2GH5u4dz",
+                "id": 1671492621801,
+                "createdDateTime": "2022-12-19T23:30:21.694Z",
+                "date": "2022-12-19T23:30:21.000Z",
+                "length": 107,
+                "people": [
+                    "Bob Marley"
+                ],
+                "source": "https://en.wikipedia.org/wiki/Bob_Marley",
+                "status": "approved",
+                "tags": [
+                    "Music"
+                ],
+                "text": "Bob Marley never received a Grammy nomination but was recognized with the Grammy Lifetime Achievement Award"
+            }
+        ]
+    },
+    {
+        "TotalResults": 108,
+        "Results": [
+            {
+                "_id": "nLS6LIUBpqkA2GH5u4dz",
+                "id": 1671492621844,
+                "createdDateTime": "2022-12-19T23:30:21.694Z",
+                "date": "2022-12-19T23:30:21.000Z",
+                "length": 150,
+                "people": [
+                    "Claudette Colvin"
+                ],
+                "source": "https://en.wikipedia.org/wiki/Claudette_Colvin",
+                "status": "approved",
+                "tags": [
+                    "Civil RIghts"
+                ],
+                "text": "At the age of 15 Claudette Colvin was arrested in Montgomery, Alabama, for refusing to give up her seat to a white woman on a crowded, segregated bus."
+            }
+        ]
+    },
+    {
+        "TotalResults": 108,
+        "Results": [
+            {
+                "_id": "g7S6LIUBpqkA2GH5u4dz",
+                "id": 1671492621767,
+                "createdDateTime": "2022-12-19T23:30:21.694Z",
+                "date": null,
+                "length": 73,
+                "people": [
+                    "Barack Obama"
+                ],
+                "source": "https://en.wikipedia.org/wiki/Barack_Obama",
+                "status": "approved",
+                "tags": [
+                    "US Government",
+                    "Global"
+                ],
+                "text": "Barack Obama negotiated and normalized U.S. relations with Cuba in 2016-5"
+            }
+        ]
+    },
+    {
+        "TotalResults": 108,
+        "Results": [
+            {
+                "_id": "brS4LIUBpqkA2GH5PoeG",
+                "id": 1671492388533,
+                "createdDateTime": "2022-12-19T23:26:28.431Z",
+                "date": null,
+                "length": 102,
+                "people": [
+                    "Bessie Coleman"
+                ],
+                "source": "https://en.wikipedia.org/wiki/Bessie_Coleman",
+                "status": "approved",
+                "tags": [
+                    "Firsts"
+                ],
+                "text": "Bessie Coleman was the first African-American woman and first Native American to hold a pilot license."
+            }
+        ]
+    },
+    {
+        "TotalResults": 108,
+        "Results": [
+            {
+                "_id": "v7S7LIUBpqkA2GH5bYdn",
+                "id": 1671492621803,
+                "createdDateTime": "2022-12-19T23:30:21.694Z",
+                "date": null,
+                "length": 109,
+                "people": [
+                    "Bob Marley"
+                ],
+                "source": "https://en.wikipedia.org/wiki/Order_of_Merit_(Jamaica)",
+                "status": "approved",
+                "tags": [
+                    "Global",
+                    "Music",
+                    "Art"
+                ],
+                "text": "After his death Bob Marley was awarded the fourth-highest honour by the nation of Jamaica, the Order of Merit"
+            }
+        ]
+    }
+]

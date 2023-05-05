@@ -1,0 +1,37 @@
+services:
+
+  postgres-db:
+    image: postgres-scc413:1.0
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_PASSWORD: 123456
+
+  grafana-server:
+    image: grafana-scc413:1.0
+    ports:
+      - 3000:3000
+
+  mongo-db:
+    image: mongo:5.0.16
+    ports:
+      - 27017:27017
+
+  cat-api:
+    image: cat-fact-server:1.0
+    ports:
+      - 5000:5000
+
+  airflow-main:
+    image: airflow-scc413:1.0
+    command: bash -c "/entrypoint_script.sh"
+    ports:
+      - 8080:8080
+
+  # elastic-net:
+  #  image: elasticsearch:7.17.9
+  #  ports: 
+  #     - 9200:9200
+  #     - 9300:9300
+  #  environment:
+  #     - discovery.type=single-node

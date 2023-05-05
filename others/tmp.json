@@ -1,0 +1,21 @@
+{
+    "TotalResults": 126,
+    "Results": [
+        {
+            "_id": "1bS7LIUBpqkA2GH5bYdn",
+            "id": 1671492621735,
+            "createdDateTime": "2022-12-19T23:30:21.694Z",
+            "date": "2022-12-19T23:30:21.000Z",
+            "length": 41,
+            "people": [
+                "Bessie Coleman"
+            ],
+            "source": "https://en.wikipedia.org/wiki/Bessie_Coleman#Honors",
+            "status": "approved",
+            "tags": [
+                "Birthday"
+            ],
+            "text": "Bessie Coleman was born in Atlanta, Texas"
+        }
+    ]
+}
